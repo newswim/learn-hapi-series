@@ -1,0 +1,25 @@
+{
+  "name": "learn-hapi-series",
+  "version": "1.0.0",
+  "description": "These correspond to the HapiCasts on the YouTube and the onlines",
+  "main": "index.js",
+  "scripts": {
+    "test": "lol"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/newswim/learn-hapi-series.git"
+  },
+  "keywords": [
+    "hapi",
+    "joi",
+    "typescript",
+    "hapicasts"
+  ],
+  "author": "Dan Minshew",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/newswim/learn-hapi-series/issues"
+  },
+  "homepage": "https://github.com/newswim/learn-hapi-series#readme"
+}
